@@ -2,3 +2,11 @@
 venv/
 __pycache__/
 *.pyc
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.log
+*.zipgit init
